@@ -29,7 +29,7 @@
 
 - [Funtions Explained for Kids](https://youtu.be/TtbMXi045zM)
 - [Dynamic Programming Explained](https://youtu.be/Tx5WOvPzm1w)
-- [Linked List Explained]([https://youtu.be/Tx5WOvPzm1w](https://youtu.be/484UtEDu6Og))
+- [Linked List Explained](https://youtu.be/484UtEDu6Og)
 
 <h2>🤝 Connect with Me</h2>
 
