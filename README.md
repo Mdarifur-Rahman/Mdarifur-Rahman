@@ -31,16 +31,16 @@
 - [Dynamic Programming Explained](https://youtu.be/Tx5WOvPzm1w)
 - [Linked List Explained](https://youtu.be/484UtEDu6Og)
 
-<h2>🤝 Connect with Me</h2>
+## 🤝 Connect with Me
 
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
-<br/><br/>
-
+<!-- Links -->
 [twitter]: https://x.com/ScoobyKnight3  
 [youtube]: https://www.youtube.com/@rahmanrmr  
 [instagram]: https://www.instagram.com/scoobyknight/  
 [linkedin]: https://linkedin.com/in/mdarifurrahman7/
+
