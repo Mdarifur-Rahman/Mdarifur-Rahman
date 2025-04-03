@@ -20,7 +20,7 @@
 - <b>[Social Media Webapp](https://github.com/mdarifur-rahman/Social-Media-Webapp)</b>  
   Full-stack Instagram clone web app using Python, React.js, Flask, SQLite, and AWS. Users can create, edit, and interact through posts, likes, and comments.
 
-- <b>[Race Crew Dashboard(Not Updated)](https://github.com/mdarifur-rahman/Race-Crew-Dashboard)</b>
+- <b>[Race Crew Dashboard(Not Updated)](https://github.com/mdarifur-rahman/Dashboard)</b>
   Interactive web dashboard for solar car racing team featuring real-time data like speed, temperature, and live location.
 
 ---
