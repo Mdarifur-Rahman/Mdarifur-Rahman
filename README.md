@@ -12,7 +12,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>[Interactive Card Game](https://github.com/mdarifur-rahman/Card-Game)</b>  
-  Classic trick-taking card game implemented in C++ with customizable AI and player logic. Focuses on modular design, game state tracking, and strategic decision-making. Supports 1v1 and team-based play with input validation and round-based scoring.
+  Classic trick-taking card game implemented in Java with customizable AI and player logic. Focuses on modular design, game state tracking, and strategic decision-making. Supports 1v1 and team-based play with input validation and round-based scoring.
 
 - <b>[Dog Breed Classifier ML Model](https://github.com/mdarifur-rahman/Dog-Breed-Classifier-ML-Model)</b>  
   Built CNN, Vision Transformer, and transfer learning models to classify Golden Retrievers vs. Collies from a 10-breed image dataset. Explored overfitting, regularization, data augmentation, and model performance across training, validation, and test sets.
